@@ -1,0 +1,4 @@
+enum OSType {
+  windows,
+  html,
+}
